@@ -2,7 +2,7 @@
 
 **Analista de Dados**
 
-Me chamo Adriano da Costa Pereira, 37 anos, graduado em Gestão Imobiliária e certificado em Data Analytics pelo Google. Misto de Dom Quixote com Sherlock Holmes do mundo real, em transição de carreira, porém sem perder o encanto pelos mistérios que os dados nos reservam.
+Me chamo Adriano da Costa Pereira, 37 anos, carioca da gema, graduado em Gestão Imobiliária e certificado em Data Analytics pelo Google. Misto de Dom Quixote com Sherlock Holmes do mundo real, em transição de carreira, porém sem perder o encanto pelos mistérios que os dados nos reservam.
 
 [![Total de estrelas](https://img.shields.io/github/stars/adrianocosta99?style=for-the-badge&logo=star&labelColor=488207&color=55960c)](https://github.com/adrianocosta99?tab=repositories&sort=stargazers)
 [![Seguidores](https://img.shields.io/github/followers/adrianocosta99?style=for-the-badge&logo=github&labelColor=1155ba&color=236ad3)](https://github.com/adrianocosta99?tab=followers)
